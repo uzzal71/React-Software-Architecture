@@ -29,6 +29,12 @@ Many React developers have intimate knowledge of the React API itself, but littl
 - [Using Redux with components](#using-redux-with-components)
 - [Big state with Mobx](#big-state-with-mobx)
 
+## 4. Data Loading with WebSockets
+- [When should we load data?](#when-should-we-load-data?)
+- [data loading with SSR](#data-loading-with-ssr)
+- [Rendering server-side API data](#rendering-server-side-api-data)
+- [Enhancing SSR with context](#enhancing-ssr-with-context)
+
 ### Learn software architechture with React
 ### What you should know
 
@@ -52,3 +58,8 @@ Many React developers have intimate knowledge of the React API itself, but littl
 ### Big state with Redux
 ### Using Redux with components
 ### Big state with Mobx
+
+### When should we load data?
+### data loading with SSR
+### Rendering server-side API data
+### Enhancing SSR with context
