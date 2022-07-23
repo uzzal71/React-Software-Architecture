@@ -17,6 +17,18 @@ Many React developers have intimate knowledge of the React API itself, but littl
 - [Styling with server-side rendering](#styling-with-server-side-rendering)
 - [Server-side rendering caveats](#server-side-rendering-caveats)
 
+## 3. State Management Archtecture
+- [What is state managment?](#what-is-state-managment?)
+- [Small state with the useState Hook](#small-state-with-the-use-state-hook)
+- [Small state with context](#small-state-with-context)
+- [Accessing context inside components](#accessing-context-inside-components)
+- [Medium state with Recoil](#medium-state-with-recoil)
+- [Sharing Recoil state](#sharing-recoil-state)
+- [Using Recoil selectors](#using-recoil-selectors)
+- [Big state with Redux](#big-state-with-redux)
+- [Using Redux with components](#using-redux-with-components)
+- [Big state with Mobx](#big-state-with-mobx)
+
 ### Learn software architechture with React
 ### What you should know
 
@@ -29,3 +41,14 @@ Many React developers have intimate knowledge of the React API itself, but littl
 ### Routing with server-side rendering
 ### Styling with server-side rendering
 ### Server-side rendering caveats
+
+### What is state managment?
+### Small state with the useState Hook
+### Small state with context
+### Accessing context inside components
+### Medium state with Recoil
+### Sharing Recoil state
+### Using Recoil selectors
+### Big state with Redux
+### Using Redux with components
+### Big state with Mobx
