@@ -35,6 +35,19 @@ Many React developers have intimate knowledge of the React API itself, but littl
 - [Rendering server-side API data](#rendering-server-side-api-data)
 - [Enhancing SSR with context](#enhancing-ssr-with-context)
 
+## 5. Code Splitting
+- [Code splitting basics](#code-splitting-basics)
+- [Route-based code splitting](#route-based-code-splitting)
+- [When to use code splitting](#when-to-use-code-splitting)
+- [Error boundaries](#error-boundaries)
+
+## 6. Folder Structure and Naming Conventions
+- [Function vs. feature-based organization](#function-vs-feature-based-organization)
+- [Monoliths, multi-repos, and monorepos](#monoliths-multi-repos-and-monorepos)
+
+## Conclusion
+- [Next steps](#next-steps)
+
 ### Learn software architechture with React
 ### What you should know
 
@@ -63,3 +76,13 @@ Many React developers have intimate knowledge of the React API itself, but littl
 ### data loading with SSR
 ### Rendering server-side API data
 ### Enhancing SSR with context
+
+### Code splitting basics
+### Route-based code splitting
+### When to use code splitting
+### Error boundaries
+
+### Function vs. feature-based organization
+### Monoliths, multi-repos, and monorepos
+
+### Next steps
