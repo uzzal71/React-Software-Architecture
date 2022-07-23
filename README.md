@@ -5,7 +5,27 @@ Many React developers have intimate knowledge of the React API itself, but littl
 - [Learn software architechture with React](#learn-software-architechture-with-react)
 - [What you should know](#what-you-should-know)
 
+## 1. Software Architecture Basics
+- [What is software architecture?](#What-is-software-architecture?)
 
+## 2. Server-Side Rendering(SSR)
+- [Server-side rendering basics](#server-side-rendering-basics)
+- [Setting up a simple React app](#Setting-up-a-simple-react-app)
+- [Basic React SSR](#basic-react-ssr)
+- [Building and rendering and SSR React app](#building-and-rendering-and-ssr-react-app)
+- [Routing with server-side rendering](#routing-with-server-side-rendering)
+- [Styling with server-side rendering](#styling-with-server-side-rendering)
+- [Server-side rendering caveats](#server-side-rendering-caveats)
 
 ### Learn software architechture with React
 ### What you should know
+
+### What is software architecture?
+
+### Server-side rendering basics
+### Setting up a simple React app
+### Basic React SSR
+### Building and rendering and SSR React app
+### Routing with server-side rendering
+### Styling with server-side rendering
+### Server-side rendering caveats
